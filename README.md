@@ -1,2 +1,3 @@
- This Repository is dedicated to showcasing my knowledge of installing active directory on various operating systems, virtual machines, etc.
-(https://youtu.be/g25kHfoG8hs)
+ This Repository is dedicated to showcasing my knowledge of installing active directory on various operating systems, using various virtual machines, servers, etc.
+
+[ADDS/VMware Workstation PRO 17/Windows Server 2022](https://youtu.be/g25kHfoG8hs)
